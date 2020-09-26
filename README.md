@@ -23,7 +23,7 @@ ImageMagick is a free and open-source cross-platform software suite for displayi
 
 ## Example
 
-* in **example/**
+* creating website favicons from JPEG source **example/**
 * `docker run -v "$PWD":/tmp -w /tmp gscloudcz/imagick convert -flatten -background none -resize 16x16 input.jpg favicon-16.png`
 
 Author: Filip Oščádal aka Fred Brooker 💌 <oscadal@gscloud.cz>
