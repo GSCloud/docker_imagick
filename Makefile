@@ -1,7 +1,7 @@
 all: info
 
 info:
-	@echo "\e[1;32m👾 Welcome to Docker Imagick 👾"
+	@echo "\e[1;32m👾 Welcome to Imagick in Docker 👾"
 	@echo "🆘 \e[0;1mmake build\e[0m - rebuild image"
 	@echo "🆘 \e[0;1mmake docs\e[0m - rebuild documentation"
 	@echo "🆘 \e[0;1mmake everything\e[0m - run all make points"
